@@ -21,7 +21,7 @@
 
 
   
-🔭 Eu sou desenvolvedor front-end e atualmente busco aportunidade
+🔭 Eu sou desenvolvedor fullstack e atualmente busco aportunidades
 
 
 
