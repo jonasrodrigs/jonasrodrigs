@@ -29,7 +29,7 @@
 
 💬 Sou entusiasta no desenvolvimento em typeScript
 
-😄 Pronomes: Ele/Dele
+
 </div>
 
     
