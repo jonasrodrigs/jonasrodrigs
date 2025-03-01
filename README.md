@@ -27,7 +27,7 @@
 
 🌱 estou estudando typescript e angular
 
-💬 Sou entusiasta no desenvolvimento em typeScript
+💬 Sou entusiasta no desenvolvimento 
 
 
 </div>
