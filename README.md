@@ -4,9 +4,9 @@
 
 ## 👋 Welcome!
 
-I’m a **fullstack developer** passionate about technology, continuous learning, and challenges that push me out of my comfort zone.
+I’m a **developer** and tech enthusiast, always seeking to learn more and take on challenges that push me beyond the comfort zone.
 
-🎓 Transitioning from logistics to programming, I’m currently pursuing a degree in **Systems Analysis and Development (ADS)** at Unifacite and studying web development at **DevClub**.
+🎓 I’m currently studying **Systems Analysis and Development (ADS)** at Unifatecie, and I’ve already completed a **Web Development** course at DevClub. I also participated in the **Decola Tech Bootcamp 2025**.
 
 🚀 Technologies I've worked with:
 
