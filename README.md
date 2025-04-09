@@ -5,60 +5,46 @@
   </a>
 </p>
 
-<p align="center">
+## 👋 Hello, world! Eu sou Jonas Rodrigues
 
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Bem-vindo+ao+meu +espaço+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9" alt="Typing SVG">
-  </a>
-</p>
+Sou um desenvolvedor entusiasta da tecnologia, aprendizado contínuo e desafios que me tiram da zona de conforto.
 
+atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** na Unifacite | cursei Desenvolvimento web no **DevClub** e fiz **bootcamp** **Decola** **tech**.
 
+🚀 Tecnologias que já utilizei:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-<div align="center">
+### 📊 GitHub Stats
 
+![Jonas GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasrodrigs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasrodrigs&layout=compact&theme=dracula)
 
+---
 
-  
-🔭 Eu sou desenvolvedor fullstack e atualmente busco aportunidades
+### 👀 Quantidade de visitantes:
 
+![Visitor Badge](https://profile-counter.glitch.me/jonasrodrigs/count.svg)
 
+---
 
-🌱 desenvolvedor focado em front-end, typescript e angular e com conhecimentos em beck-end
+### 📫 Contato:
 
-💬 Sou entusiasta no desenvolvimento 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonasrodrigs)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mexylemphotos@gmail.com)
 
+---
 
-</div>
-
-    
-  <div style="display: inline_block" align="center"><br>
-
-
-  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" left="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" left="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" left="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" left="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" left="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" left="40px"/>
-</p>
-
- 
-
-
-
-
-  
-</div>
-
-  <p></p>
-  <div align="center"> 
-  <a href="https://www.instagram.com/j_rodrgg/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jonas-rodrigues050297/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mexylemphotos@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-                                                    
-</div>
+⭐ Obrigado por visitar meu perfil! Vamos construir algo incrível juntos.
