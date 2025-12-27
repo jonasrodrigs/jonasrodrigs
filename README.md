@@ -2,16 +2,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Que+bom+te+ter+aqui!+%F0%9F%9A%80;Seja+bem-vindo+ao+meu+GitHub!" />
 </p>
 
-# 👋 Welcome to my GitHub!
+# Welcome to my GitHub!
 
-## 👨‍💻 About Me
+## About Me
 I am a **Mid-Level Full Stack Developer** with experience in **banking systems**, focused on proposing and implementing technical solutions for critical business demands. I have hands-on experience with **Angular, Java, and Oracle SQL**, REST API integration, data modeling, and handling large volumes of data.
 
 I work with **technical autonomy**, collaborating within squads, following Git-based workflows, and maintaining continuous alignment with technical and business stakeholders.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -36,25 +36,31 @@ I work with **technical autonomy**, collaborating within squads, following Git-b
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonasrodrigs&show_icons=true)
+![Profile Views](https://komarev.com/ghpvc/?username=jonasrodrigs&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jonasrodrigs?style=flat-square)
+![Followers](https://img.shields.io/github/followers/jonasrodrigs?style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasrodrigs&layout=compact)
+## GitHub Activity Summary
 
-![GitHub Streak](https://streak-stats.demolab.com?user=jonasrodrigs)
+- Active contributor with consistent commits
+- Experience with GitHub and SVN (TortoiseSVN) in team environments
+- Pull requests, code review, and version control best practices
+- Focus on backend, frontend, and database integration
+
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasrodrigs&theme=tokyo-night)
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jona-s-rodrigues/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jonasrodrigs)
 
 ---
 
-⭐ Thank you for visiting my profile. Let's build something great together.
+Thank you for visiting my profile. Let's build something great together.
