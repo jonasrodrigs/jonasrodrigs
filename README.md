@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Que+bom+te+ter+aqui!+%F0%9F%9A%80;Seja+bem-vindo+ao+meu+GitHub!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Welcome!;Feel+free+to+explore+my+GitHub" />
 </p>
 
-# Welcome to my GitHub!
+
 
 ## About Me
 I am a **Mid-Level Full Stack Developer** with experience in **banking systems**, focused on proposing and implementing technical solutions for critical business demands. I have hands-on experience with **Angular, Java, and Oracle SQL**, REST API integration, data modeling, and handling large volumes of data.
