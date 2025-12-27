@@ -52,8 +52,15 @@ I work with **technical autonomy**, collaborating within squads, following Git-b
 
 ---
 
-## Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jonasrodrigs&theme=tokyo-night)
+## 📌 Professional Activity
+
+- Experience working with GitHub and SVN (TortoiseSVN) in corporate environments  
+- Familiar with pull requests, code reviews, and team-based workflows  
+- Hands-on experience in Full Stack development using Angular, Java, and Oracle SQL  
+- Focus on clean code, maintainability, and scalable solutions  
+- Used to collaborating with cross-functional squads and aligning with technical and business stakeholders
+
+
 
 ---
 
